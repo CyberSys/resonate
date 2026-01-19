@@ -2,13 +2,10 @@
 
 # ***Resonate***
 
-> [!WARNING]  
-> **Resonate has been deprecated.** — No further development will occur. It's still compatible with Godot 4.0-4.2, but higher versions are untested. If you would like to take over its development, please reach out via our Discord server.
+> [!IMPORTANT]
+> This project was originally developed and maintained by Huge Menace. **As of Jan 2026, it is officially maintained by Widgit Gaming**. Future updates, issues, and discussions are hosted at 👉 [https://gitlab.com/widgitgaming/godot/resonate](gitlab.com/widgitgaming/godot/resonate) — Thank you to the community for your support!
 
 An all-in-one sound and music management addon for the Godot game engine (see compatibility).
-
-[![Static Badge](https://img.shields.io/badge/Godot-Asset_Library-red?style=for-the-badge&logo=godotengine&logoColor=white&color=%23558bbe)](https://godotengine.org/asset-library/asset/2546)
-[![Discord](https://img.shields.io/discord/796535676136718356?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=%235865F2)](https://hugemenace.co/discord)
 
 ## Features
 - Pooled audio stream players.
