@@ -3,7 +3,7 @@
 # ***Resonate***
 
 > [!IMPORTANT]
-> This project was originally developed and maintained by Huge Menace. **As of Jan 2026, it is officially maintained by Widgit Gaming**. Future updates, issues, and discussions are hosted at 👉 [https://gitlab.com/widgitgaming/godot/resonate](gitlab.com/widgitgaming/godot/resonate) — Thank you to the community for your support!
+> This project was originally developed and maintained by Huge Menace. **As of Jan 2026, it is officially maintained by Widgit Gaming**. Future updates, issues, and discussions are hosted at 👉 [gitlab.com/widgitgaming/godot/resonate](https://gitlab.com/widgitgaming/godot/resonate) — Thank you to the community for your support!
 
 An all-in-one sound and music management addon for the Godot game engine (see compatibility).
 
